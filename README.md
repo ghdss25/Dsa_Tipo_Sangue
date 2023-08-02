@@ -1,4 +1,4 @@
-# Dsa_Tipo_Sangue - Projeto da Dsa - Análise de dados - Tipos de Sangue
+# Dsa_Tipo_Sangue - Tipos de Sangue
 
 A finalidade desta planilha é analisar os índices de massa corporal (IMCs) dos usuários da empresa Data Science Academy para determinar a elegibilidade de doação de sangue de acordo com seus tipos sanguíneos.
 
