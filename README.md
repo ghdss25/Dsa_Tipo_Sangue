@@ -16,7 +16,8 @@ identificar padrões, tendências e relações entre os diferentes elementos pre
   Título
   E-mail
   Sexo
-  Profissão	Nascimento
+  Profissão
+  Nascimento
   Telefone
   Tipo Sanguineo
   Última Consulta
